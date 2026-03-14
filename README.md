@@ -40,6 +40,13 @@ players_raw.csv + base_prices_raw.csv
   Flask API (recommend.py)    → serves top 12 results per filter query
 ```
 
+## 📸 Screenshots
+
+### Comparison Engine
+![Comparison Engine](screenshots/compare-engine.png)
+
+### Team Builder
+![Team Builder](screenshots/team-builder.png)
 ---
 
 ## 🗂️ Project Structure
