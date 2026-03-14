@@ -1,0 +1,129 @@
+player_id,player_name,age,country,role,batting_style,batting_position,bowling_style,bowling_type
+1,Yashasvi Jaiswal,24,India,Batter,LHB,Toporder,None,None
+2,Ishan Kishan,27,India,Wicketkeeper Batter,LHB,Toporder,None,None
+3,Rinku Singh,28,India,Batter,LHB,Toporder,None,None
+4,Tilak Varma,23,India,Batter,LHB,Toporder,None,None
+5,Abhishek Sharma,25,India,Batter,LHB,Toporder,None,None
+6,Sai Sudharsan,24,India,Batter,LHB,Middleorder,None,None
+7,Devdutt Padikkal,26,India,Batter,LHB,Toporder,None,None
+8,Nehal Wadhera,25,India,Batter,LHB,Middleorder,None,None
+9,Prerak Mankad,31,India,All-rounder,RHB,Middleorder,Right-arm,Medium-fast
+10,Anmolpreet Singh,27,India,Batter,RHB,Middleorder,None,None
+11,Karun Nair,35,India,Batter,RHB,Middleorder,None,None
+12,David Warner,39,Australia,Batter,LHB,Toporder,None,None
+13,Travis Head,32,Australia,Batter,LHB,Toporder,None,None
+14,Quinton de Kock,32,South Africa,Wicketkeeper Batter,LHB,Toporder,None,None
+15,Nicholas Pooran,30,West Indies,Wicketkeeper Batter,LHB,Middleorder,None,None
+16,Dawid Malan,38,England,Batter,LHB,Toporder,None,None
+17,Devon Conway,34,New Zealand,Batter,LHB,Toporder,None,None
+18,Tom Latham,33,New Zealand,Wicketkeeper Batter,LHB,Middleorder,None,None
+19,Sherfane Rutherford,26,West Indies,All-rounder,LHB,Middleorder,Right-arm,Medium-fast
+20,Rahmanullah Gurbaz,26,Afghanistan,Wicketkeeper Batter,RHB,Toporder,None,None
+21,Brandon King,30,West Indies,Batter,RHB,Toporder,None,None
+22,Evin Lewis,32,West Indies,Batter,LHB,Toporder,None,None
+23,Virat Kohli,37,India,Batter,RHB,Middleorder,None,None
+24,Rohit Sharma,38,India,Batter,RHB,Toporder,None,None
+25,Shubman Gill,25,India,Batter,RHB,Toporder,None,None
+26,Ruturaj Gaikwad,29,India,Batter,RHB,Toporder,None,None
+27,KL Rahul,34,India,Wicketkeeper Batter,RHB,Toporder,None,None
+28,Suryakumar Yadav,35,India,Batter,RHB,Middleorder,None,None
+29,Shreyas Iyer,29,India,Batter,RHB,Middleorder,None,None
+30,Sanju Samson,33,India,Wicketkeeper Batter,RHB,Middleorder,None,None
+31,Rajat Patidar,33,India,Batter,RHB,Middleorder,None,None
+32,Rahul Tripathi,35,India,Batter,RHB,Toporder,None,None
+33,Nitish Rana,32,India,All-rounder,LHB,Middleorder,Right-arm,Right-arm off spin
+34,Mayank Agarwal,34,India,Batter,RHB,Toporder,None,None
+35,Manish Pandey,36,India,Batter,RHB,Middleorder,None,None
+36,Prithvi Shaw,26,India,Batter,RHB,Toporder,None,None
+37,Jos Buttler,34,England,Wicketkeeper Batter,RHB,Toporder,None,None
+38,Faf du Plessis,41,South Africa,Batter,RHB,Toporder,None,None
+39,Kane Williamson,35,New Zealand,Batter,RHB,Toporder,None,None
+40,Heinrich Klaasen,33,South Africa,Wicketkeeper Batter,RHB,Middleorder,None,None
+41,Glenn Phillips,32,New Zealand,Wicketkeeper Batter,RHB,Middleorder,None,None
+42,Alex Hales,36,England,Batter,RHB,Toporder,None,None
+43,Jason Roy,35,England,Batter,RHB,Toporder,None,None
+44,Steve Smith,35,Australia,Batter,RHB,Middleorder,None,None
+45,Rassie van der Dussen,36,South Africa,Batter,RHB,Middleorder,None,None
+46,Tim Seifert,30,New Zealand,Wicketkeeper Batter,RHB,Middleorder,None,None
+47,Harry Brook,25,England,Batter,RHB,Middleorder,None,None
+48,Will Jacks,27,England,All-rounder,RHB,Middleorder,Right-arm,Medium-fast
+49,Charith Asalanka,30,Sri Lanka,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin
+50,Paul Stirling,38,Ireland,Batter,RHB,Toporder,None,None
+51,Trent Boult,36,New Zealand,Bowler,RHB,Lowerorder,Left-arm,Left-arm fast
+52,Mitchell Starc,36,Australia,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast
+53,Arshdeep Singh,26,India,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast
+54,T Natarajan,34,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+55,Khaleel Ahmed,28,India,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast
+56,Reece Topley,34,England,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast
+57,Mustafizur Rahman,30,Bangladesh,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast
+58,Jaydev Unadkat,35,India,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast
+59,Dilshan Madushanka,23,Sri Lanka,Bowler,RHB,Lowerorder,Left-arm,Left-arm fast
+60,Fazalhaq Farooqi,23,Afghanistan,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+61,Obed McCoy,27,West Indies,Bowler,RHB,Lowerorder,Left-arm,Left-arm fast
+62,Luke Wood,25,England,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+63,Jasprit Bumrah,32,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+64,Mohammed Shami,35,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+65,Mohammed Siraj,31,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+66,Avesh Khan,28,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+67,Mukesh Kumar,29,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+68,Prasidh Krishna,27,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+69,Umran Malik,22,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+70,Deepak Chahar,29,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+71,Akash Deep,30,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+72,Navdeep Saini,32,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+73,Kagiso Rabada,31,South Africa,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+74,Josh Hazlewood,32,Australia,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+75,Pat Cummins,34,Australia,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+76,Anrich Nortje,29,South Africa,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+77,Mark Wood,33,England,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+78,Lockie Ferguson,34,New Zealand,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+79,Gerald Coetzee,29,South Africa,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+80,Tim Southee,37,New Zealand,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+81,Alzarri Joseph,26,West Indies,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast
+82,Sean Abbott,35,Australia,All-rounder,RHB,Lowerorder,Right-arm,Medium-fast
+83,Mitchell Santner,32,New Zealand,All-rounder,LHB,Lowerorder,Left-arm,Left-arm orthodox
+84,Tabraiz Shamsi,36,South Africa,Bowler,RHB,Lowerorder,Left-arm,Left-arm wrist spin
+85,Keshav Maharaj,37,South Africa,Bowler,RHB,Lowerorder,Left-arm,Left-arm orthodox
+86,Noor Ahmad,20,Afghanistan,Bowler,LHB,Lowerorder,Left-arm,Left-arm wrist spin
+87,Fabian Allen,32,West Indies,All-rounder,RHB,Lowerorder,Left-arm,Left-arm medium
+88,Yuzvendra Chahal,34,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin
+89,Kuldeep Yadav,33,India,Bowler,LHB,Lowerorder,Left-arm,Left-arm wrist spin
+90,Ravi Bishnoi,25,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin
+91,Varun Chakravarthy,34,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm mystery spin
+92,Rashid Khan,27,Afghanistan,All-rounder,RHB,Lowerorder,Right-arm,Right-arm leg spin
+93,Adam Zampa,32,Australia,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin
+94,Wanindu Hasaranga,29,Sri Lanka,All-rounder,RHB,Lowerorder,Right-arm,Right-arm leg spin
+95,Piyush Chawla,40,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin
+96,Rahul Chahar,27,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin
+97,Maheesh Theekshana,29,Sri Lanka,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin
+98,Shreyas Gopal,33,India,All-rounder,RHB,Lowerorder,Right-arm,Right-arm off spin
+99,Murugan Ashwin,35,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm off spin
+100,Ravindra Jadeja,37,India,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox
+101,Axar Patel,33,India,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox
+102,Moeen Ali,37,England,All-rounder,LHB,Middleorder,Right-arm,Right-arm off spin
+103,Sunil Narine,34,West Indies,All-rounder,LHB,Middleorder,Right-arm,Right-arm off spin
+104,Shahbaz Ahmed,27,India,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox
+105,Washington Sundar,25,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin
+106,Krunal Pandya,35,India,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox
+107,Sikandar Raza,39,Zimbabwe,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin
+108,Roston Chase,35,West Indies,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin
+109,Dunith Wellalage,19,Sri Lanka,All-rounder,RHB,Lowerorder,Left-arm,Left-arm orthodox
+110,Shakib Al Hasan,38,Bangladesh,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox
+111,Hardik Pandya,32,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast
+112,Venkatesh Iyer,31,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast
+113,Shivam Dube,34,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast
+114,Deepak Hooda,32,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin
+115,Nitish Kumar Reddy,23,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast
+116,Vijay Shankar,34,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast
+117,Ben Stokes,34,England,All-rounder,LHB,Middleorder,Right-arm,Right-arm fast-medium
+118,Cameron Green,25,Australia,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast
+119,Glenn Maxwell,35,Australia,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin
+120,Marcus Stoinis,35,Australia,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast
+121,Andre Russell,35,West Indies,All-rounder,RHB,Lowerorder,Right-arm,Right-arm fast-medium
+122,Sam Curran,27,England,All-rounder,LHB,Lowerorder,Left-arm,Left-arm medium-fast
+123,Jason Holder,35,West Indies,All-rounder,RHB,Lowerorder,Right-arm,Right-arm fast-medium
+124,Mitchell Marsh,33,Australia,All-rounder,LHB,Middleorder,Right-arm,Right-arm medium-fast
+125,Daryl Mitchell,34,New Zealand,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast
+126,Chris Woakes,36,England,All-rounder,RHB,Lowerorder,Right-arm,Right-arm medium-fast
+127,Azmatullah Omarzai,26,Afghanistan,All-rounder,RHB,Lowerorder,Right-arm,Right-arm medium-fast
+128,Romario Shepherd,28,West Indies,All-rounder,RHB,Lowerorder,Right-arm,Right-arm medium-fast

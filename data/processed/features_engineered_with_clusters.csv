@@ -1,0 +1,129 @@
+player_id,player_name,age,country,role_x,batting_style,batting_position,bowling_style,bowling_type,base_price_in_lakhs,batting_form_score,bowling_form_score,matches_played,recent_form_score,consistency_index,impact_score,role_y,role,cluster,player_type
+1,Yashasvi Jaiswal,24,India,Batter,LHB,Toporder,0,0,200,0.8284549725899176,0.0,14,82.85,4.02,79.86,Batter,Batter,1,Balanced
+2,Ishan Kishan,27,India,Wicketkeeper Batter,LHB,Toporder,0,0,200,0.7621906211280056,0.0,14,76.22,2.64,57.09,Wicketkeeper Batter,Wicketkeeper Batter,2,Power Hitter
+3,Rinku Singh,28,India,Batter,LHB,Toporder,0,0,100,0.8761005375423158,0.0,15,87.61,3.02,65.18,Batter,Batter,2,Power Hitter
+4,Tilak Varma,23,India,Batter,LHB,Toporder,0,0,100,0.7197926815796273,0.0,12,71.98,2.57,47.87,Batter,Batter,0,Anchor
+5,Abhishek Sharma,25,India,Batter,LHB,Toporder,0,0,150,0.969956000633462,0.2679472149408952,14,97.0,3.82,69.39,Batter,Batter,2,Power Hitter
+6,Sai Sudharsan,24,India,Batter,LHB,Middleorder,0,0,150,0.8263608551307666,0.0,15,82.64,5.0,100.0,Batter,Batter,1,Balanced
+7,Devdutt Padikkal,26,India,Batter,LHB,Toporder,0,0,50,0.6681855674569094,0.0,11,66.82,2.18,43.9,Batter,Batter,0,Anchor
+8,Nehal Wadhera,25,India,Batter,LHB,Middleorder,0,0,30,0.6950139389884458,0.0,10,69.5,1.96,36.13,Batter,Batter,0,Anchor
+10,Anmolpreet Singh,27,India,Batter,RHB,Middleorder,0,0,30,0.6057315659823401,0.0,8,60.57,1.5,27.12,Batter,Batter,0,Anchor
+11,Karun Nair,35,India,Batter,RHB,Middleorder,0,0,30,0.6393466426474584,0.0,9,63.93,1.92,33.76,Batter,Batter,0,Anchor
+15,Nicholas Pooran,30,West Indies,Wicketkeeper Batter,LHB,Middleorder,0,0,200,0.9999999944182428,0.0,14,100.0,4.63,78.24,Wicketkeeper Batter,Wicketkeeper Batter,2,Power Hitter
+13,Travis Head,32,Australia,Batter,LHB,Toporder,0,0,200,0.8132917981459347,0.0,13,81.33,2.93,61.59,Batter,Batter,2,Power Hitter
+16,Dawid Malan,38,England,Batter,LHB,Toporder,0,0,100,0.6047916846996919,0.0,9,60.48,1.8,33.75,Batter,Batter,0,Anchor
+22,Evin Lewis,32,West Indies,Batter,LHB,Toporder,0,0,100,0.6716537684751049,0.0,8,67.17,2.08,33.67,Batter,Batter,0,Anchor
+20,Rahmanullah Gurbaz,26,Afghanistan,Wicketkeeper Batter,RHB,Toporder,0,0,50,0.7018613347494528,0.0,11,70.19,2.26,44.49,Wicketkeeper Batter,Wicketkeeper Batter,0,Anchor
+17,Devon Conway,34,New Zealand,Batter,LHB,Toporder,0,0,100,0.7284074323459755,0.0,13,72.84,3.14,64.72,Batter,Batter,1,Balanced
+29,Shreyas Iyer,29,India,Batter,RHB,Middleorder,0,0,100,0.9086099061495152,0.0,17,90.86,3.96,85.57,Batter,Batter,2,Power Hitter
+30,Sanju Samson,33,India,Wicketkeeper Batter,RHB,Middleorder,0,0,100,0.7699620034058713,0.0,14,77.0,3.14,66.01,Wicketkeeper Batter,Wicketkeeper Batter,2,Power Hitter
+27,KL Rahul,34,India,Wicketkeeper Batter,RHB,Toporder,0,0,200,0.7772953701550839,0.0,13,77.73,3.89,77.08,Wicketkeeper Batter,Wicketkeeper Batter,1,Balanced
+21,Brandon King,30,West Indies,Batter,RHB,Toporder,0,0,30,0.6389425145077149,0.0,10,63.89,2.02,39.59,Batter,Batter,0,Anchor
+23,Virat Kohli,37,India,Batter,RHB,Middleorder,0,0,200,0.7620553702383775,0.0,15,76.21,4.01,91.12,Batter,Batter,1,Balanced
+24,Rohit Sharma,38,India,Batter,RHB,Toporder,0,0,200,0.7595246152285072,0.0,15,75.95,2.63,63.2,Batter,Batter,2,Power Hitter
+26,Ruturaj Gaikwad,29,India,Batter,RHB,Toporder,0,0,100,0.7801230950813501,0.0,12,78.01,3.82,67.7,Batter,Batter,1,Balanced
+25,Shubman Gill,25,India,Batter,RHB,Toporder,0,0,200,0.8176313067979755,0.0,15,81.76,4.27,89.88,Batter,Batter,1,Balanced
+31,Rajat Patidar,33,India,Batter,RHB,Middleorder,0,0,50,0.779869499282744,0.0,12,77.99,3.06,54.51,Batter,Batter,2,Power Hitter
+32,Rahul Tripathi,35,India,Batter,RHB,Toporder,0,0,50,0.6737958232071344,0.0,10,67.38,2.1,38.63,Batter,Batter,0,Anchor
+28,Suryakumar Yadav,35,India,Batter,RHB,Middleorder,0,0,200,0.8829835157667899,0.0,16,88.3,4.78,96.62,Batter,Batter,1,Balanced
+37,Jos Buttler,34,England,Wicketkeeper Batter,RHB,Toporder,0,0,200,0.8423373901541142,0.0,14,84.23,3.95,77.87,Wicketkeeper Batter,Wicketkeeper Batter,1,Balanced
+36,Prithvi Shaw,26,India,Batter,RHB,Toporder,0,0,75,0.7273485629792854,0.0,9,72.73,2.18,37.41,Batter,Batter,0,Anchor
+35,Manish Pandey,36,India,Batter,RHB,Middleorder,0,0,50,0.5796875582501569,0.0,8,57.97,1.54,27.58,Batter,Batter,0,Anchor
+34,Mayank Agarwal,34,India,Batter,RHB,Toporder,0,0,50,0.5594040648829233,0.0,11,55.94,1.41,34.54,Batter,Batter,0,Anchor
+33,Nitish Rana,32,India,All-rounder,LHB,Middleorder,Right-arm,Right-arm off spin,75,0.6658337969701796,0.3218352276828655,13,52.82,1.12,30.48,All-rounder,All-rounder,0,Batting Heavy
+61,Obed McCoy,27,West Indies,Bowler,RHB,Lowerorder,Left-arm,Left-arm fast,30,0.1304826347380248,0.547545755982191,7,54.75,2.64,0.62,Bowler,Bowler,1,Wicket Taker
+62,Luke Wood,25,England,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,30,0.1569869199191861,0.5227095761364989,10,52.27,2.58,0.98,Bowler,Bowler,2,Death Specialist
+59,Dilshan Madushanka,23,Sri Lanka,Bowler,RHB,Lowerorder,Left-arm,Left-arm fast,75,0.0,0.6010526584468081,10,60.11,3.12,1.31,Bowler,Bowler,2,Death Specialist
+60,Fazalhaq Farooqi,23,Afghanistan,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,50,0.0344559801717606,0.9999812262783851,10,100.0,4.94,2.15,Bowler,Bowler,1,Wicket Taker
+55,Khaleel Ahmed,28,India,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast,50,0.0872114669124385,0.5430007378642494,12,54.3,2.71,1.45,Bowler,Bowler,2,Death Specialist
+39,Kane Williamson,35,New Zealand,Batter,RHB,Toporder,0,0,100,0.6147350360963932,0.0,11,61.47,1.99,42.32,Batter,Batter,0,Anchor
+42,Alex Hales,36,England,Batter,RHB,Toporder,0,0,100,0.6594923361762257,0.0,9,65.95,2.22,39.56,Batter,Batter,0,Anchor
+41,Glenn Phillips,32,New Zealand,Wicketkeeper Batter,RHB,Middleorder,0,0,75,0.7530544928986522,0.4171938136629738,12,75.31,2.53,45.6,Wicketkeeper Batter,Wicketkeeper Batter,2,Power Hitter
+48,Will Jacks,27,England,All-rounder,RHB,Middleorder,Right-arm,Medium-fast,100,0.8313874710299565,0.2489883503293611,11,59.84,1.73,36.16,All-rounder,All-rounder,0,Batting Heavy
+47,Harry Brook,25,England,Batter,RHB,Middleorder,0,0,100,0.8136999099252356,0.0,12,81.37,2.94,51.88,Batter,Batter,2,Power Hitter
+43,Jason Roy,35,England,Batter,RHB,Toporder,0,0,75,0.7318453990744305,0.0,10,73.18,2.62,46.43,Batter,Batter,2,Power Hitter
+45,Rassie van der Dussen,36,South Africa,Batter,RHB,Middleorder,0,0,75,0.5916440478474869,0.0,8,59.16,1.84,31.73,Batter,Batter,0,Anchor
+53,Arshdeep Singh,26,India,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast,100,0.0332247449564415,0.6326988079719786,17,63.27,2.93,2.56,Bowler,Bowler,2,Death Specialist
+51,Trent Boult,36,New Zealand,Bowler,RHB,Lowerorder,Left-arm,Left-arm fast,200,0.1569869199191861,0.6674134020206923,16,66.74,3.22,2.58,Bowler,Bowler,1,Wicket Taker
+50,Paul Stirling,38,Ireland,Batter,RHB,Toporder,0,0,50,0.6140727012686207,0.0,8,61.41,1.8,31.9,Batter,Batter,0,Anchor
+49,Charith Asalanka,30,Sri Lanka,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin,30,0.6582953560167125,0.1947212171362933,11,47.29,1.14,30.59,All-rounder,All-rounder,0,Batting Heavy
+63,Jasprit Bumrah,32,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,200,0.2623027164821144,0.8447887139027936,12,84.48,4.48,2.17,Bowler,Bowler,1,Wicket Taker
+64,Mohammed Shami,35,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,200,0.0332247449564415,0.4721320882055027,15,47.21,2.42,1.75,Bowler,Bowler,2,Death Specialist
+58,Jaydev Unadkat,35,India,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast,50,0.1043861077904198,0.3490439682213975,8,34.9,1.7,0.27,Bowler,Bowler,2,Death Specialist
+57,Mustafizur Rahman,30,Bangladesh,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast,100,0.0661541588466035,0.5217009474577005,14,52.17,2.53,1.61,Bowler,Bowler,2,Death Specialist
+54,T Natarajan,34,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,75,0.0074423428702429,0.4687310858975904,15,46.87,2.29,1.59,Bowler,Bowler,2,Death Specialist
+75,Pat Cummins,34,Australia,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,200,0.6583743624289594,0.5521061459930875,14,55.21,2.63,1.76,Bowler,Bowler,2,Death Specialist
+74,Josh Hazlewood,32,Australia,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,200,0.0227826822558456,0.8611472441695641,12,86.11,4.3,2.73,Bowler,Bowler,1,Wicket Taker
+73,Kagiso Rabada,31,South Africa,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,200,0.2018403256103822,0.5622179282568209,14,56.22,2.73,1.77,Bowler,Bowler,2,Death Specialist
+72,Navdeep Saini,32,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,50,0.0387622024491817,0.344515854789865,7,34.45,1.66,0.12,Bowler,Bowler,2,Death Specialist
+71,Akash Deep,30,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,30,0.0996742348693245,0.5194044648181737,9,51.94,2.69,0.84,Bowler,Bowler,2,Death Specialist
+70,Deepak Chahar,29,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,75,0.3617784888748992,0.43145685002752,12,43.15,2.16,0.97,Bowler,Bowler,0,Economical
+69,Umran Malik,22,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,100,0.0,0.4222449107920739,6,42.22,2.17,0.27,Bowler,Bowler,2,Death Specialist
+68,Prasidh Krishna,27,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,75,0.0,0.7902615646387303,15,79.03,4.19,3.22,Bowler,Bowler,1,Wicket Taker
+67,Mukesh Kumar,29,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,50,0.0,0.4713808560717094,14,47.14,2.29,1.31,Bowler,Bowler,0,Economical
+66,Avesh Khan,28,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,50,0.0074423428702429,0.4821140404207409,13,48.21,2.42,1.43,Bowler,Bowler,2,Death Specialist
+65,Mohammed Siraj,31,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,100,0.0212638367721225,0.482286878201974,14,48.23,2.43,1.59,Bowler,Bowler,2,Death Specialist
+128,Romario Shepherd,28,West Indies,All-rounder,RHB,Lowerorder,Right-arm,Right-arm medium-fast,50,0.6800522402321183,0.3040771236610596,12,52.97,0.93,20.71,All-rounder,All-rounder,1,Balanced
+118,Cameron Green,25,Australia,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast,200,0.7609332193663518,0.324922656022541,13,58.65,1.49,31.99,All-rounder,All-rounder,1,Balanced
+115,Nitish Kumar Reddy,23,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast,50,0.7056837421716868,0.277900484430106,13,53.46,1.31,34.78,All-rounder,All-rounder,0,Batting Heavy
+116,Vijay Shankar,34,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast,50,0.5988702994355555,0.1360250328329947,9,41.37,0.84,21.18,All-rounder,All-rounder,1,Balanced
+117,Ben Stokes,34,England,All-rounder,LHB,Middleorder,Right-arm,Right-arm fast-medium,200,0.5859021405184415,0.3332613304408371,6,48.48,1.4,19.06,All-rounder,All-rounder,0,Batting Heavy
+121,Andre Russell,35,West Indies,All-rounder,RHB,Lowerorder,Right-arm,Right-arm fast-medium,200,0.8469560329827225,0.6892622583589827,14,78.39,2.48,31.69,All-rounder,All-rounder,1,Balanced
+103,Sunil Narine,34,West Indies,All-rounder,LHB,Middleorder,Right-arm,Right-arm off spin,200,0.9204102808290838,0.5435570289143096,14,76.97,3.4,56.48,All-rounder,All-rounder,0,Batting Heavy
+104,Shahbaz Ahmed,27,India,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox,50,0.5888594317303903,0.2618661735176301,12,45.81,0.8,18.05,All-rounder,All-rounder,1,Balanced
+105,Washington Sundar,25,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin,75,0.5330557407636838,0.4367961096627918,10,49.46,1.42,15.52,All-rounder,All-rounder,1,Balanced
+106,Krunal Pandya,35,India,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox,100,0.653123885216298,0.6761098969696995,15,66.23,1.98,24.35,All-rounder,All-rounder,1,Balanced
+108,Roston Chase,35,West Indies,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin,75,0.5610261325875205,0.4305254591742752,9,50.88,1.54,19.38,All-rounder,All-rounder,1,Balanced
+76,Anrich Nortje,29,South Africa,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,200,0.0022060075007774,0.4816199383600305,11,48.16,2.5,1.25,Bowler,Bowler,2,Death Specialist
+79,Gerald Coetzee,29,South Africa,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,50,0.4281347280036046,0.4588796288341992,13,45.89,2.3,1.41,Bowler,Bowler,2,Death Specialist
+86,Noor Ahmad,20,Afghanistan,Bowler,LHB,Lowerorder,Left-arm,Left-arm wrist spin,50,0.0797433748648544,0.8930426698839241,14,89.3,4.34,3.07,Bowler,Bowler,1,Wicket Taker
+83,Mitchell Santner,32,New Zealand,All-rounder,LHB,Lowerorder,Left-arm,Left-arm orthodox,100,0.4491985518110893,0.5372448156868187,10,48.44,1.59,12.33,All-rounder,All-rounder,1,Balanced
+81,Alzarri Joseph,26,West Indies,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,75,0.1217837924221565,0.3825834835631473,9,38.26,1.98,0.59,Bowler,Bowler,2,Death Specialist
+93,Adam Zampa,32,Australia,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin,100,0.3376618524462056,0.666107769713992,10,66.61,3.45,1.34,Bowler,Bowler,2,Death Specialist
+94,Wanindu Hasaranga,29,Sri Lanka,All-rounder,RHB,Lowerorder,Right-arm,Right-arm leg spin,100,0.6295596797219642,0.5550250292633799,11,59.97,1.86,18.29,All-rounder,All-rounder,1,Balanced
+95,Piyush Chawla,40,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin,50,0.2491855871733114,0.5190221063134848,13,51.9,2.46,1.44,Bowler,Bowler,2,Death Specialist
+85,Keshav Maharaj,37,South Africa,Bowler,RHB,Lowerorder,Left-arm,Left-arm orthodox,75,0.2491855871733114,0.5769701678317724,12,57.7,3.0,1.35,Bowler,Bowler,0,Economical
+88,Yuzvendra Chahal,34,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin,100,0.0310097619593454,0.5678910708689752,14,56.79,2.51,1.74,Bowler,Bowler,2,Death Specialist
+91,Varun Chakravarthy,34,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm mystery spin,100,0.0074423428702429,0.6690945176786212,13,66.91,3.48,1.97,Bowler,Bowler,2,Death Specialist
+90,Ravi Bishnoi,25,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin,75,0.1569869199191861,0.5691148898490389,12,56.91,2.96,1.48,Bowler,Bowler,2,Death Specialist
+89,Kuldeep Yadav,33,India,Bowler,LHB,Lowerorder,Left-arm,Left-arm wrist spin,100,0.0961499065356139,0.8498595983573468,14,84.99,4.5,2.79,Bowler,Bowler,1,Wicket Taker
+96,Rahul Chahar,27,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin,50,0.1569869199191861,0.4276714713844082,10,42.77,2.11,0.66,Bowler,Bowler,0,Economical
+92,Rashid Khan,27,Afghanistan,All-rounder,RHB,Lowerorder,Right-arm,Right-arm leg spin,200,0.6182869461432563,0.7258941923955755,14,66.13,2.33,19.37,All-rounder,All-rounder,1,Balanced
+102,Moeen Ali,37,England,All-rounder,LHB,Middleorder,Right-arm,Right-arm off spin,100,0.6756344422654197,0.3974620319014656,10,56.44,1.39,24.34,All-rounder,All-rounder,1,Balanced
+101,Axar Patel,33,India,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox,100,0.7625343384694356,0.4755971427986479,14,64.78,2.01,29.31,All-rounder,All-rounder,1,Balanced
+100,Ravindra Jadeja,37,India,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox,200,0.7765096236609207,0.5548633332650892,14,68.79,2.32,32.49,All-rounder,All-rounder,1,Balanced
+99,Murugan Ashwin,35,India,Bowler,RHB,Lowerorder,Right-arm,Right-arm off spin,30,0.0996742348693245,0.3634092453510226,6,36.34,1.73,0.0,Bowler,Bowler,2,Death Specialist
+98,Shreyas Gopal,33,India,All-rounder,RHB,Lowerorder,Right-arm,Right-arm off spin,50,0.2990147306691841,0.3961048956096806,7,33.79,1.13,9.56,All-rounder,All-rounder,1,Balanced
+97,Maheesh Theekshana,29,Sri Lanka,Bowler,RHB,Lowerorder,Right-arm,Right-arm leg spin,75,0.0661541588466035,0.5181906012685514,13,51.82,2.6,1.2,Bowler,Bowler,0,Economical
+125,Daryl Mitchell,34,New Zealand,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast,100,0.7170571141966181,0.0,13,43.02,1.11,36.05,All-rounder,All-rounder,0,Batting Heavy
+111,Hardik Pandya,32,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast,200,0.7524739152845243,0.4085053303622619,14,61.49,2.0,35.6,All-rounder,All-rounder,0,Batting Heavy
+114,Deepak Hooda,32,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin,75,0.6057315659823401,0.2031788053553444,10,44.47,0.8,20.21,All-rounder,All-rounder,1,Balanced
+110,Shakib Al Hasan,38,Bangladesh,All-rounder,LHB,Middleorder,Left-arm,Left-arm orthodox,200,0.610589514368918,0.5551392857496947,10,58.84,2.2,23.66,All-rounder,All-rounder,1,Balanced
+112,Venkatesh Iyer,31,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast,75,0.7299693100953525,0.2391480731802659,11,53.36,1.23,30.41,All-rounder,All-rounder,0,Batting Heavy
+113,Shivam Dube,34,India,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast,75,0.8799726848848979,0.1444132431910294,14,58.57,1.63,43.92,All-rounder,All-rounder,0,Batting Heavy
+44,Steve Smith,35,Australia,Batter,RHB,Middleorder,0,0,100,0.588891537326043,0.0,9,58.89,1.75,33.5,Batter,Batter,0,Anchor
+56,Reece Topley,34,England,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast,100,0.0,0.5356879990536388,9,53.57,2.63,0.83,Bowler,Bowler,2,Death Specialist
+14,Quinton de Kock,32,South Africa,Wicketkeeper Batter,LHB,Toporder,0,0,200,0.757338464800182,0.0,11,75.73,3.15,55.85,Wicketkeeper Batter,Wicketkeeper Batter,2,Power Hitter
+12,David Warner,39,Australia,Batter,LHB,Toporder,0,0,200,0.7848187807408067,0.0,10,78.48,4.09,64.65,Batter,Batter,1,Balanced
+9,Prerak Mankad,31,India,All-rounder,RHB,Middleorder,Right-arm,Medium-fast,20,0.6525532516662252,0.3403948517421393,10,52.77,1.4,25.49,All-rounder,All-rounder,0,Batting Heavy
+46,Tim Seifert,30,New Zealand,Wicketkeeper Batter,RHB,Middleorder,0,0,30,0.7249045685885115,0.0,10,72.49,2.6,46.33,Wicketkeeper Batter,Wicketkeeper Batter,2,Power Hitter
+40,Heinrich Klaasen,33,South Africa,Wicketkeeper Batter,RHB,Middleorder,0,0,150,0.8761005375423158,0.0,11,87.61,4.02,65.45,Wicketkeeper Batter,Wicketkeeper Batter,2,Power Hitter
+38,Faf du Plessis,41,South Africa,Batter,RHB,Toporder,0,0,150,0.716749398855965,0.0,11,71.67,2.81,53.3,Batter,Batter,2,Power Hitter
+18,Tom Latham,33,New Zealand,Wicketkeeper Batter,LHB,Middleorder,0,0,50,0.5937570100651136,0.0,9,59.38,1.59,30.92,Wicketkeeper Batter,Wicketkeeper Batter,0,Anchor
+19,Sherfane Rutherford,26,West Indies,All-rounder,LHB,Middleorder,Right-arm,Medium-fast,30,0.8129483483946056,0.0,10,48.78,1.61,37.64,All-rounder,All-rounder,2,Bowling Heavy
+52,Mitchell Starc,36,Australia,Bowler,LHB,Lowerorder,Left-arm,Left-arm fast,200,0.1304826347380248,0.8893985763048001,4,88.94,5.0,0.7,Bowler,Bowler,1,Wicket Taker
+82,Sean Abbott,35,Australia,All-rounder,RHB,Lowerorder,Right-arm,Medium-fast,50,0.592463127462029,0.5619412290049796,11,58.03,1.85,17.86,All-rounder,All-rounder,1,Balanced
+84,Tabraiz Shamsi,36,South Africa,Bowler,RHB,Lowerorder,Left-arm,Left-arm wrist spin,100,0.0290739775690332,0.6659741831701396,11,66.6,3.46,1.51,Bowler,Bowler,2,Death Specialist
+80,Tim Southee,37,New Zealand,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,100,0.2126330517620327,0.5156998962346465,10,51.57,2.67,0.99,Bowler,Bowler,2,Death Specialist
+78,Lockie Ferguson,34,New Zealand,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,100,0.0661541588466035,0.6557141852998094,10,65.57,3.24,1.45,Bowler,Bowler,1,Wicket Taker
+77,Mark Wood,33,England,Bowler,RHB,Lowerorder,Right-arm,Right-arm fast,100,0.0,0.479363279240123,10,47.94,2.08,0.77,Bowler,Bowler,2,Death Specialist
+87,Fabian Allen,32,West Indies,All-rounder,RHB,Lowerorder,Left-arm,Left-arm medium,30,0.5660264077406829,0.4621223782112942,8,52.45,1.48,15.79,All-rounder,All-rounder,1,Balanced
+107,Sikandar Raza,39,Zimbabwe,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin,100,0.6552820937692125,0.4340850530975415,11,56.68,1.87,26.62,All-rounder,All-rounder,1,Balanced
+109,Dunith Wellalage,19,Sri Lanka,All-rounder,RHB,Lowerorder,Left-arm,Left-arm orthodox,50,0.4617262350564299,0.5657891322697994,8,50.34,1.81,13.08,All-rounder,All-rounder,1,Balanced
+119,Glenn Maxwell,35,Australia,All-rounder,RHB,Middleorder,Right-arm,Right-arm off spin,200,0.683709062095899,0.3053465158281457,11,53.24,1.67,33.35,All-rounder,All-rounder,0,Batting Heavy
+120,Marcus Stoinis,35,Australia,All-rounder,RHB,Middleorder,Right-arm,Right-arm medium-fast,100,0.7543375822815346,0.2565170037707519,12,55.52,1.58,37.81,All-rounder,All-rounder,0,Batting Heavy
+122,Sam Curran,27,England,All-rounder,LHB,Lowerorder,Left-arm,Left-arm medium-fast,200,0.6905538655662907,0.3630591074611738,10,55.96,2.46,43.95,All-rounder,All-rounder,0,Batting Heavy
+124,Mitchell Marsh,33,Australia,All-rounder,LHB,Middleorder,Right-arm,Right-arm medium-fast,100,0.6866322062679879,0.2746659316820086,11,52.18,1.49,36.52,All-rounder,All-rounder,0,Batting Heavy
+123,Jason Holder,35,West Indies,All-rounder,RHB,Lowerorder,Right-arm,Right-arm fast-medium,100,0.5624113652340405,0.5322183339403666,10,55.03,1.86,17.94,All-rounder,All-rounder,1,Balanced
+126,Chris Woakes,36,England,All-rounder,RHB,Lowerorder,Right-arm,Right-arm medium-fast,100,0.3736506659386931,0.4728817723002257,8,41.33,1.44,10.25,All-rounder,All-rounder,1,Balanced
+127,Azmatullah Omarzai,26,Afghanistan,All-rounder,RHB,Lowerorder,Right-arm,Right-arm medium-fast,50,0.6251868567158412,0.4411326099636689,12,55.16,1.58,21.42,All-rounder,All-rounder,1,Balanced
