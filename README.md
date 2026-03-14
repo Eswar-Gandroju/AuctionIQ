@@ -43,10 +43,13 @@ players_raw.csv + base_prices_raw.csv
 ## 📸 Screenshots
 
 ### Comparison Engine
-![Comparison Engine](screenshots/compare-engine.png)
+![Comparison Engine](screenshots/Compare-engine.png)
 
 ### Team Builder
 ![Team Builder](screenshots/team-builder.png)
+
+###Short List
+![Short List](screenshots/shortlist-tray.png)
 ---
 
 ## 🗂️ Project Structure
