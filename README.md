@@ -48,7 +48,7 @@ players_raw.csv + base_prices_raw.csv
 ### Team Builder
 ![Team Builder](screenshots/team-builder.png)
 
-###Short List
+### Short List
 ![Short List](screenshots/shortlist-tray.png)
 ---
 
@@ -150,7 +150,7 @@ iars/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/iars.git
+[https://github.com/Eswar-Gandroju/AuctionIQ]
 cd iars
 ```
 
